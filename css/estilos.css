@@ -15,11 +15,11 @@ table.center {
   }
 
 /* Establecemos el formato para h2, h3, h4 y p */
-h1{color:white;}
+h1{color:red;}
 h2{color:white}
 h3 {color:green;}
 h4 {color:blue;}
-p {color:white; font-size:14pt; font-family:"Verdana",sans-serif;}
+p {color:white; font-size:18pt; font-family:"Times New Roman",sans-serif;}
 
 
 
